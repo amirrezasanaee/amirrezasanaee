@@ -15,7 +15,6 @@
 <a href="https://t.me/amirrezasanaee" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-telegram-6370999-5314546.png?f=webp&w=256" alt="amirrezasanaee" height="40" width="40"/></a>
 <a href="https://linkedin.com/in/amirrezasanaee" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-162-498418.png?f=webp&w=256" alt="amirrezasanaee" height="40" width="40"/></a>
 <a href="https://stackoverflow.com/users/24835274" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-stackoverflow-9132729-7416958.png?f=webp&w=256" alt="24835274" height="40" width="40"/></a>
-<a href="mailto:amirrezasanaeeofficial@gmail.com" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-512/free-gmail-11306419-9343850.png?f=webp&w=256" alt="24835274" height="40" width="40"/></a>
 </p>
 
 <h3 align="left">Languages and Tools 💼:</h3>
