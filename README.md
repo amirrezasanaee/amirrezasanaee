@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **AmiSHa Project**
+- 🔭 I’m currently working on **Django Amisha Shop**
 
 - 🌱 I’m currently learning **Django and Python**
 
