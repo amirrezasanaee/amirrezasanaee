@@ -2,10 +2,7 @@
 
 
 
-
-- 🔭 I’m currently working on **Amisha Shop**
-
-- 🌱 I’m currently learning **Django and Python**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **Python**
 
