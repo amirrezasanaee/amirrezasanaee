@@ -1,6 +1,29 @@
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/162576270?v=4"  />
+
+<h1 align="center">Hello👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm Amirreza Sanaee<br><br>- 🔭 I’m working as Python Back-End Developer<br>- 📚 I'm currently learning Django <br>- 💬 Ask me about Python & Django</p>
+
+###
+
+<h3 align="left">🛠 Language and tools : </h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo"  />
 </div>
+
+###
+
+<h3 align="left">Contact Me :</h3>
 
 ###
 
@@ -15,29 +38,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="center">Hello👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Amirreza Sanaee<br><br>- 🔭 I’m working as Python Back-End Developer<br>- 📚 I'm currently learning Django <br>- 💬 Ask me about Python & Django</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" height="40" alt="django logo"  />
-</div>
-
-###
