@@ -38,7 +38,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="mailto:amrzsanaee@yahoo.com" target="_blank">
-    <img src="https://s.yimg.com/rz/l/favicon.ico" width="52" height="40" alt="yahoo logo"  />
+    <img src="https://s.yimg.com/cv/apiv2/default/icons/favicon_y19_32x32_custom.svg" width="52" height="40" alt="yahoo logo"  />
   </a>
 </div>
 
